@@ -1,0 +1,16 @@
+Country,Age,Salary,Purchased
+Argentina,34,,Yes
+Argentina,31,1500,Yes
+Argentina,39,900,Yes
+USA,38,1100,No
+USA,30,1300,Yes
+USA,,1000,No
+Uzbekistan,36,1400,Yes
+Uzbekistan,33,800,Yes
+Uzbekistan,35,1000,No
+Argentina,40,1250,Yes
+Argentina,35,950,Yes
+Argentina,37,1050,No
+USA,30,1150,Yes
+USA,32,,No
+USA,34,1450,Yes
